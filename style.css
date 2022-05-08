@@ -17,13 +17,13 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #999999;
+    background-color: #74b1a8;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #424a50;
+    background-color: #426e68;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -33,7 +33,7 @@
 
 .profile {
     width: 100%;
-    border-bottom: 2px solid #eeeeee;
+    border-bottom: 1px solid #9df4ff;
 }
 
 .profile .profile-image {
@@ -42,15 +42,16 @@
 }
 
 .name {
-    color: #D6DBDF;
+    color: #eeeeee;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .profession {
     color: #eeeeee;
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
     text-align: center;
 }
@@ -63,6 +64,7 @@
 
 .contact-info ul {
     padding-top: 1.5rem;
+    
 }
 
 .contact-info ul li,
@@ -92,6 +94,8 @@
 
 .right-title {
     color: #eeeeee;
+    font-size: 30px;
+    text-transform: uppercase;
 }
 
 .gap {
@@ -101,7 +105,6 @@
     font-size: 18px;
     color: #eeeeee;
 }
-
 .experience-contents,
 .education-contents,
 .awards-contents {

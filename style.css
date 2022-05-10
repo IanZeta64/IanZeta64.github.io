@@ -17,7 +17,7 @@
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #065450;
+    background-color: #3d746d;
 }
 
 .right-section {
@@ -33,7 +33,7 @@
 
 .profile {
     width: 100%;
-    border-bottom: 1px solid #a8fffc;
+    border-bottom: 1px solid #c6f8ff;
 }
 
 .profile .profile-image {

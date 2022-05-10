@@ -42,16 +42,15 @@
 }
 
 .name {
-    color: #eeeeee;
+    color: #D6DBDF;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    text-align: center;
 }
 
 .profession {
     color: #eeeeee;
-    font-size: 18px;
+    font-size: 20px;
     text-transform: uppercase;
     text-align: center;
 }
@@ -64,7 +63,6 @@
 
 .contact-info ul {
     padding-top: 1.5rem;
-    
 }
 
 .contact-info ul li,
@@ -94,8 +92,6 @@
 
 .right-title {
     color: #eeeeee;
-    font-size: 30px;
-    text-transform: uppercase;
 }
 
 .gap {
@@ -105,6 +101,7 @@
     font-size: 18px;
     color: #eeeeee;
 }
+
 .experience-contents,
 .education-contents,
 .awards-contents {
